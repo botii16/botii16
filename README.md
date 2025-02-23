@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hi there, i'm boti 👋
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,figma" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=botii16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=botii16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=botii16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
+
+<div align="center"> 
+  <p>👀 Visitor count 👀</p>
+  <img src="https://profile-counter.glitch.me/botii16/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **botii16/botii16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
