@@ -17,7 +17,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=botii16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=botii16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=botii16&theme=shades-of-purple&hide_border=true&border_radius=5&fire=D647EB&stroke=C440EB" alt="GitHub Streak" /></a>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=botii16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
