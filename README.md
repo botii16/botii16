@@ -20,7 +20,7 @@ learning every day<br>
 ###
 
 <div align="left">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botii16&layout=compact&theme=radical)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botii16&layout=compact&theme=radical" />
 </div>
 
 ###
